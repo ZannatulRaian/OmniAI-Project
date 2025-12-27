@@ -7,6 +7,8 @@ import CodeWorkspace from './components/CodeWorkspace';
 import VideoGenerator from './components/VideoGenerator';
 import LiveSession from './components/LiveSession';
 import Login from './components/Login';
+import VisualEngine from './components/VisualEngine';
+import KnowledgeBase from './components/KnowledgeBase';
 
 const Dashboard: React.FC = () => (
   <div className="p-12 h-full overflow-y-auto">
@@ -119,6 +121,8 @@ const App: React.FC = () => {
       case 'code': return <CodeWorkspace />;
       case 'video': return <VideoGenerator />;
       case 'live': return <LiveSession />;
+      case 'images': return <VisualEngine />;
+      case 'files': return <KnowledgeBase />;
       default: return (
         <div className="flex items-center justify-center h-full">
             <div className="text-center glass p-12 rounded-[3rem] border border-white/5">
