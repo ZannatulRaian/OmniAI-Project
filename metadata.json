@@ -1,0 +1,8 @@
+{
+  "name": "OmniMind AI Workspace",
+  "description": "A comprehensive AI-powered workspace for coding, video generation, live tutoring, image creation, and large-scale document analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
