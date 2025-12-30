@@ -22,18 +22,16 @@ OmniMind is an all-in-one AI platform designed to help users **create, learn, an
 
 Check out the demo of OmniMind in action:
 
-[![Watch the video](<img width="242" height="161" alt="image" src="https://github.com/user-attachments/assets/bfdba72c-e1d7-4626-a7df-512ac41703d6" />)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/22OGnlCyCNM)](https://youtu.be/22OGnlCyCNM))  
-
-*Replace `YOUR_VIDEO_ID` with your YouTube video ID.*
+[![Watch the video](<img width="1918" height="840" alt="Screenshot 2025-12-30 122453" src="https://github.com/user-attachments/assets/ebc7c2b8-0f4c-49d9-81b1-bc9060952920" />)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/22OGnlCyCNM)](https://youtu.be/22OGnlCyCNM))  
 
 ---
 
 ## Screenshots
 
 Overview
-![Screenshot 1](<img width="242" height="161" alt="image" src="https://github.com/user-attachments/assets/8ec1d802-9896-4b85-820d-ecb7f1bb6289" />)  
+![Screenshot 1](<img width="1918" height="840" alt="Screenshot 2025-12-30 122453" src="https://github.com/user-attachments/assets/ea6cf174-078d-4661-8d4e-9f06e611782b" />)  
 
-![Screenshot 2](<img width="242" height="161" alt="image" src="https://github.com/user-attachments/assets/b0485030-b517-4ed2-affe-b9698764e517" />)  
+![Screenshot 2](<img width="1916" height="837" alt="Screenshot 2025-12-30 122502" src="https://github.com/user-attachments/assets/154106b4-1cbd-4460-bb09-c9df32922902" />)  
 
 ---
 
