@@ -29,9 +29,8 @@ Check out the demo of OmniMind in action:
 ## Screenshots
 
 Overview
-![Screenshot 1](<img width="1918" height="840" alt="Screenshot 2025-12-30 122453" src="https://github.com/user-attachments/assets/ea6cf174-078d-4661-8d4e-9f06e611782b" />)  
-
-![Screenshot 2](<img width="1916" height="837" alt="Screenshot 2025-12-30 122502" src="https://github.com/user-attachments/assets/154106b4-1cbd-4460-bb09-c9df32922902" />)  
+<img width="1918" height="840" alt="Screenshot 2025-12-30 122453" src="https://github.com/user-attachments/assets/194c6b3f-3c5c-4626-889e-c7b3d1aa4641" />
+<img width="1916" height="837" alt="Screenshot 2025-12-30 122502" src="https://github.com/user-attachments/assets/e2c87efe-5d42-4df0-a306-72eb6e1d6104" />
 
 ---
 
