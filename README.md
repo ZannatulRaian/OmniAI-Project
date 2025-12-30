@@ -22,7 +22,7 @@ OmniMind is an all-in-one AI platform designed to help users **create, learn, an
 
 Check out the demo of OmniMind in action:
 
-(https://youtu.be/22OGnlCyCNM)](https://youtu.be/22OGnlCyCNM) 
+[![Watch the video](https://img.youtube.com/vi/22OGnlCyCNM/hqdefault.jpg)](https://youtu.be/22OGnlCyCNM)
 
 ---
 
